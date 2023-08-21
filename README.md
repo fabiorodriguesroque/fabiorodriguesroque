@@ -5,8 +5,9 @@ Welcome to my profile, I live in 📍 Aveiro, PT. At the moment I work as Full S
 ```typescript
 
 const languages: string[]  = ['PHP', 'Typescript' 'Javascript', 'HTML', 'CSS'];
-const frameworks: string[] = ['Laravel', 'SvelteKit', 'VueJS'];
-const tools: string[]      = ['GIT', 'Docker', 'Asana'];
+const frameworks: string[] = ['Laravel', 'SvelteKit', 'NuxtJS'];
+const tools: string[]      = ['GIT', 'Docker', 'Asana', 'Trello', 'Jira'];
+const others: string[] = ['VueJS', 'Inertia', 'Livewire', 'AlpineJS'];
 
 ```
 
